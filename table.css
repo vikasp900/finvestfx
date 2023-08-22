@@ -1,0 +1,47 @@
+/* Table.css */
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.table-header {
+  background-color: #f2f2f2;
+  border-bottom: 2px solid #000;
+  font-weight: bold;
+  padding: 8px;
+  text-align: left;
+}
+
+.table-header span {
+  margin-left: 4px;
+}
+
+.table-row {
+  border-bottom: 1px solid #ddd;
+}
+
+.table-cell {
+  padding: 8px;
+  text-align: center;
+}
+
+.loading,
+.saving {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.save-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.save-button:hover {
+  background-color: #0056b3;
+}

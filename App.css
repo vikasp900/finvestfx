@@ -1,0 +1,50 @@
+/* src/App.css */
+
+/* Replace class names with random characters */
+.a1b2c3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.a1b2c3 table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.a1b2c3 th,
+.a1b2c3 td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
+.a1b2c3 th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.a1b2c3 td img {
+  width: 50px;
+  height: 50px;
+}
+
+.a1b2c3 input[type="number"] {
+  width: 70px;
+  padding: 5px;
+}
+
+.a1b2c3 button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.a1b2c3 button:hover {
+  background-color: #45a049;
+}
